@@ -179,6 +179,6 @@ Add screenshots of the Streamlit app to the `screenshots/` folder, then embed th
 
 ## Author
 
-**YOUR NAME**
+**Hrishavh chandrawanshi**
 
-Add your GitHub profile link here.
+[Add your GitHub profile link here.](https://github.com/hrishavh21)
