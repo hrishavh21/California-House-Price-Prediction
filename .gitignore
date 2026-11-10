@@ -1,0 +1,40 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary files
+tempCodeRunnerFile.py
+tempCodeRunnerFile.python
+*.tmp
+*.log
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings (optional)
+.vscode/
+.idea/
+
+# Build and test artifacts
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
